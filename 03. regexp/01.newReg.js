@@ -8,6 +8,14 @@ The quick brown fox jumps over the lazy dog.
 abbcccdddd
 `
 
+
+//01.생성자방식
+
+/* 
+new RegExp('표현', '옵션')
+new RegExp('[a-z]','gi')
+*/
+
 // const regexp = new RegExp('the','')
 // console.log(str.match(regexp))
 
